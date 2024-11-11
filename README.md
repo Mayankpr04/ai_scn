@@ -26,3 +26,6 @@ python3 train.py -h
 There are additional scripts in the additional scripts folder to generate a scaled down version of any dataset incase you want to train the model on your own dataset.
 
 The pre-trained weights for both the original and adaptive model can be found at https://drive.google.com/drive/folders/1TTUqeYsLSTWpvjYGmhuBkVHEIC050LsP?usp=sharing
+
+### Dataset images 
+The Set14 images with x2 version is available here https://drive.google.com/drive/folders/1misaxqZ2j23aHipXRLAnWiaR8sK3c0U5?usp=sharing
