@@ -29,3 +29,17 @@ The pre-trained weights for both the original and adaptive model can be found at
 
 ### Dataset images 
 The Set14 images with x2 version is available here https://drive.google.com/drive/folders/1misaxqZ2j23aHipXRLAnWiaR8sK3c0U5?usp=sharing
+
+### requirement.txt and requirement_1.txt
+Since pip may not provide the necessary requirements as this is done in a conda environment, a requirement.txt conda file is also present
+```bash
+pip install requirement_1.txt
+```
+or using conda 
+```bash
+conda create --name my_env --file requirement.txt
+```
+```bash
+conda activate my_env
+```
+
