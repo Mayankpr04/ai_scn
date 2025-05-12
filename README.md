@@ -1,5 +1,3 @@
-# Project for ECE570: Artificial Intelligence
-
 This project aims to replicate the Scale-Wise Convolution model as presented in the [original repository](https://github.com/ychfan/scn).
 
 ## Models
